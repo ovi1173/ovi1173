@@ -1,9 +1,12 @@
-<!-- ===================== BANNER ===================== -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=230&section=header&text=Ohiduzzaman%20Ovi&fontSize=40&fontColor=ffffff)
+<!-- ===================== BANNER IMAGE ===================== -->
+<p align="center">
+  <img src="./8469936.jpg" alt="Web Design & Development Banner" />
+</p>
 
 <!-- ===================== NAME & DESIGNATION ===================== -->
 <h1 align="center">Ohiduzzaman Ovi</h1>
 <h3 align="center">Frontend Web Developer</h3>
+
 
 <!-- ===================== ABOUT ME ===================== -->
 ## 👋 About Me
