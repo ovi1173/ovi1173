@@ -58,15 +58,4 @@ I love learning new technologies and applying them to real-world projects.
 
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ovi1173)](https://git.io/streak-stats)
