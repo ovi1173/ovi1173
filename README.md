@@ -1,6 +1,6 @@
 <!-- ===================== BANNER IMAGE ===================== -->
 <p align="center">
-  <img src="./8469936.jpg" alt="Web Design & Development Banner" />
+  <img src="https://img.freepik.com/free-vector/gradient-business-linkedin-banner_23-2150091566.jpg?t=st=1767249942~exp=1767253542~hmac=b64781022f202a8684d399b74409f127ff391f9d9b032812b50cb6213eec2bff" alt="Web Design & Development Banner" />
 </p>
 
 <!-- ===================== NAME & DESIGNATION ===================== -->
