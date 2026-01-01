@@ -58,4 +58,4 @@ I love learning new technologies and applying them to real-world projects.
 
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Stats
-![Ovi's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ovi1173)
+![Ovis's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ovi1173&combine_all_yearly_contributions=true)
